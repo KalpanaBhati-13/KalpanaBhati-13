@@ -1,7 +1,7 @@
 ## Heyy, I'm Kalpana👋
 
 
-- 🔭 I’m currently working on: **DevOps & Web Projects**
+- 🔭 I’m currently working on: **Developer & Web Projects**
 - 📫 How to reach me: **kalpanabhati741@gmail.com**
   
 
